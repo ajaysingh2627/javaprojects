@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;ajay.database.COMPANY&apos; to &apos;DBConnectivity&apos;&#x0D;&#x0A;- Original project: &apos;JavaOracle&apos;&#x0D;&#x0A;- Original element: &apos;ajay.database.COMPANY&apos;&#x0D;&#x0A;- Renamed element: &apos;ajay.database.DBConnectivity&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;COMPANY&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;ajay.database{COMPANY.java[COMPANY" matchStrategy="1" name="DBConnectivity" qualified="false" references="true" similarDeclarations="false" stamp="1578579445700" textual="false" version="1.0"/>
+</session>
